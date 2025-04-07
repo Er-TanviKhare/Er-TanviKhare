@@ -38,6 +38,7 @@ My current focus is on developing seamless user experiences while continuously l
 
 ## 🗂️ Projects
 - [QR-Based Attendance System](https://github.com/Er-TanviKhare/QR-Attendance)
+- [Digital Marketing Portal](https://github.com/Er-TanviKhare/digital-marketing-portal)
 - [Collaborative To-Do App](https://github.com/Er-TanviKhare/Group-Todo)
 - [Data Cleaning in Python](https://github.com/Er-TanviKhare/Data-Cleaning-Project)
 
